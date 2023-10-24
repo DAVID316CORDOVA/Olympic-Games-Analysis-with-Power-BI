@@ -1,4 +1,5 @@
 # Olympic-Games-Analysis-with-Power-BI
+## Description
 This repository hosts a comprehensive analysis of the Olympics, powered by Power BI, with the aim of providing a detailed insight into the performance of athletes and countries across multiple Olympic editions. Key aspects of this analysis include:
 
 Medals by Country: We´ll  explore and visualize which countries have dominated the Olympic medal tally throughout history, detailing the number of gold, silver, and bronze medals won by each nation.
